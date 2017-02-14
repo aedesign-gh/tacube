@@ -1,0 +1,71 @@
+# Site Settings
+lang: 'en'
+title: Tacube
+theme: Tacube Theme 
+author: 'AEDesign'
+description: 'This Theme was build only for practice purposes by AEDesign'
+keywords: 'Jekyll (Blog-aware, Static Site Generator) & Github, Github Pages & Website Design & PSD to HTML & Responsive Design & HTML, HTML5 &  CSS2, CSS3 & Js, Jquery & Sass/ SCSS & Adobe Photoshop & CMS for Static Site ( siteleaf, forestry, prose )'
+
+# Site Info
+email: aedesignbohol@gmail.com
+address: ''
+phone: '+63 956 812 8297'
+
+# Site Content
+banner: 'banner.png'
+favicon: 'favicon.ico'
+
+social:
+- { name: 'twitter', link: '/'}
+- { name: 'facebook', link: 'https://www.facebook.com/aedesignbohol/'}
+
+nav:
+- { title: 'home', url: ''}
+- { title: 'about', url: '#hero'}
+- { title: 'advantage', url: '#plus'}
+- { title: 'contact', url: '#reach-us'}
+
+bida:
+ title: 'Lorem ipsum dolor sit amet, consectetur'
+ link-caption: 'avail'
+ link: '\'
+ items:
+  - { blurb: 'alienum recteque cotidieque vix ei.' }
+  - { blurb: 'error vitae equidem per, pro eu.' }
+  - { blurb: 'paulo antiopam. Est stet tollit, eripuit.' }
+
+hero:
+ blurb: '"Lorem ipsum dolor sit amet, at pro nullam doctus perfecto. Elitr homero tempor usu an, omnis delenit pericula no has. Putant quaeque omnesque cu his"'
+
+assets:
+- { title: client satisfaction, value: '100%' }
+- { title: years in business, value: '15' }
+- { title: cars models vacant, value: '22' }
+- { title: client serves, value: '50+' }
+
+plus:
+- { title: years of experience,
+    blurb: 'Lorem ipsum dolor sit amet, eos tale agam aeque ne. An harum quidam bonorum vis', 
+    class: clock, 
+    img: clock }
+    
+- { title: skilled staff,
+    blurb: 'Per te ludus impedit accusata, alienum recteque cotidieque',
+    img: staff }
+  
+- { title: superb support,
+    blurb: 'vix ei. Est ne illum dicit senserit, ad error vitae equidem per', 
+    img: support }
+  
+- { title: cheap rates,
+    blurb: 'pro eu habemus tacimates pertinax. Mel te inimicus salutatus',
+    img: pig }
+  
+- { title: modern fleet of vehicles, 
+    blurb: 'In placerat quaestio has. Ut ius simul audire mediocrem, te eos ipsum',
+    img: ster-wheel }
+  
+- { title: security, 
+    blurb: 'reprehendunt. An pro cibo solum, an pri errem albucius. Modus numquam principes ei nam',
+    img: safe }
+  
